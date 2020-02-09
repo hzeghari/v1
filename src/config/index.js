@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Hamza Zeghari | Full-Stack Developper',
+  siteTitle: 'Hamza Zeghari | Full-Stack Developer',
   siteDescription:
     'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
@@ -16,23 +16,23 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/hamza-zeghari',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/hamza-zegharii/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: '',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/the47.py',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: '',
     },
   ],
 
