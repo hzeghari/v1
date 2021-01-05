@@ -1,11 +1,11 @@
 {
   "name": "v1",
-  "description": "Personal Website V1",
+  "description": "Personal Website",
   "version": "1.0.0",
   "author": "Hamza Zeghari <zeghari.hamzaa@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hamza-zeghari/P_V1"
+    "url": "https://github.com/hzeghari/v1"
   },
   "keywords": [
     "gatsby"
