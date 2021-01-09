@@ -1,0 +1,26 @@
+{
+  "componentChunkName": "component---src-templates-tag-js",
+  "path": "/pensieve/tags/docker/",
+  "result": {
+    "data": {
+      "allMarkdownRemark": {
+        "totalCount": 1,
+        "edges": [
+          {
+            "node": {
+              "id": "4dd343ec-a0a6-5740-8e87-469093b1a66a",
+              "frontmatter": {
+                "title": "Docker Compose Error",
+                "description": "docker-compose version discrepancies",
+                "date": "2019-12-13",
+                "slug": "/pensieve/docker-error",
+                "tags": ["WordPress", "Docker"]
+              }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "tag": "Docker" }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "expireTime": 9007200864965168000,
+  "key": "421f73a2-9d55-5893-81ac-32513607a95d{\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"png\",\"toFormatBase64\":\"\",\"width\":20,\"height\":10}",
+  "val": {
+    "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsSAAALEgHS3X78AAABC0lEQVQoz6WSC0+FMAyF+f//0BgMiTymPO7YeOwBHNdehqhEb2KTk9Em/XbakSDEtm0sinmeMU0TaxzHI9daHzmdlNN37I+RRFgsSilRFCWyLEMlBERQVQkUZYnXPEfOKpCmL2ia5icwpPhPnGEM9CvglxWL91iWhWWtZUXn67py/TwN1SLsi8NpNjDW3WHc+Nkcg3LnPM77voIxMH16RlUKDGHRsu+DFKxzDLDhIlKEXQG+R6L7Al1Xo21vuMk+vJxhALmisaLOjn6DJmqo0bQ1lBrQKw09jDDGHs4i/BF3+6MYSKUwG8Pu6PSeQG4f2cJ5/5A7BprgQLy9h/9MBKfdfYf77q4e4C/gByCCEY7tbeb0AAAAAElFTkSuQmCC",
+    "width": 20,
+    "height": 10,
+    "aspectRatio": 2,
+    "originalName": "Gemography.png"
+  }
+}

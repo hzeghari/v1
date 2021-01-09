@@ -1,7 +1,6 @@
 ---
-date: '1'
+date: '2020-12-25'
 title: 'Gemography Challenge'
-cover: './Gemography.png'
 github: 'https://github.com/hzeghari/gemography_frontend_challenge'
 external: 'https://gemography-frontend-challenge.vercel.app'
 tech:

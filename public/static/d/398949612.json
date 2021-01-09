@@ -1,0 +1,12 @@
+{
+  "data": {
+    "site": {
+      "id": "Site",
+      "siteMetadata": {
+        "title": "Hamza Zeghari | Full-Stack Developer",
+        "siteUrl": "https://brittanychiang.com",
+        "description": "Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications."
+      }
+    }
+  }
+}
