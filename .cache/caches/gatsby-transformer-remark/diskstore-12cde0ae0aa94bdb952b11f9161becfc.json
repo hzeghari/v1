@@ -1,5 +1,0 @@
-{
-  "expireTime": 9007200864963569000,
-  "key": "transformer-remark-markdown-html-571b795696aaf6665c8ac61c72418f2d-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
-  "val": "<p>A nicer look that show Github repos ( Owner, Repo name, Description, Stars, Issues and Date ), fetched with Github API. App builed NextJS with Tailwind CSS.</p>"
-}
