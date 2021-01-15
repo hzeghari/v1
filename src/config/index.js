@@ -1,26 +1,26 @@
 module.exports = {
   siteTitle: 'Hamza Zeghari | Full-Stack Developer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Hamza Zeghari is a software engineer based in Casablanca, Morocco who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Hamza Zeghari, Hamza, Zeghari, hzeghari, software engineer, front-end engineer, web developer, javascript, nodejs, php, react, reactjs, reactnative, northeastern',
+  siteUrl: 'https://hzeghari.now.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-158068254-1',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: 'dBvuFzSf4xcvM3LuuPXqyy19IouLfwI14PsjlFgW_3I',
   name: 'Hamza Zeghari',
-  location: 'Boston, MA',
+  location: 'Casablanca, Morocco',
   email: 'zeghari.hamzaa@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  github: 'https://github.com/hzeghari',
+  twitterHandle: '@the__fortyseven',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/hamza-zeghari',
+      url: 'https://github.com/hzeghari',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/hamza-zegharii/',
+      url: 'https://www.linkedin.com/in/hzeghari/',
     },
     {
       name: 'Codepen',
