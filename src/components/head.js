@@ -25,7 +25,7 @@ const Head = ({ metadata }) => (
     <title itemProp="name" lang="en">
       {metadata.title}
     </title>
-    <link href={favicon} />
+    <link rel="shortcut icon" href={favicon} />
     <link rel="canonical" href="https://hzeghari.now.com" />
 
     <meta name="description" content={metadata.description} />
