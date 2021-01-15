@@ -5,8 +5,7 @@
  */
 
 const path = require('path');
-//const _ = require('lodash');
-import { kebabCase } from 'lodash';
+const _ = require('lodash');
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
@@ -58,7 +57,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // Make tag pages
   tags.forEach(tag => {
     createPage({
-      path: `/pensieve/tags/${kebabCase(tag.fieldValue)}/`,
+      path: `/pensieve/tags/${_.kebabCase(tag.fieldValue)}/`,
       component: tagTemplate,
       context: {
         tag: tag.fieldValue,
