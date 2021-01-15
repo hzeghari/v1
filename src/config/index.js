@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://hzeghari.now.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-158068254-1',
-  googleVerification: 'dBvuFzSf4xcvM3LuuPXqyy19IouLfwI14PsjlFgW_3I',
+  googleVerification: '0liW44Pw5ZlGw3LDdGdZqnHZajsaj0HL7eKlxbIU96s',
   name: 'Hamza Zeghari',
   location: 'Casablanca, Morocco',
   email: 'zeghari.hamzaa@gmail.com',
